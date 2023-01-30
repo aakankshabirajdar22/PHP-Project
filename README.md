@@ -7,3 +7,6 @@ Functionalities implemented:
 3. Different priviledges for admin, distributer, inventary manager and user
 4. Different card color scheme
 5. User info stored. e.g. Purchases, personal info, etc
+PREVIEW
+![ss1](https://user-images.githubusercontent.com/85051510/215557656-9f6b0409-dabc-4554-954e-ca2b8b2bc26d.png)
+![ss3](https://user-images.githubusercontent.com/85051510/215557695-eae55658-09cd-4d05-8265-2974a8e18c7f.png)
