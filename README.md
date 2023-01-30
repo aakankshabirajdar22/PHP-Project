@@ -3,8 +3,7 @@ A system developed to dispense the correct quantity of ration to the card holder
 
 Functionalities implemented:
 1. Schema and functional dependencies created prior to implementation
-2. ER diagram
-3. Login and signup
-4. Different priviledges for admin, distributer, inventary manager and user
-5. Different card color scheme
-6. User info stored. e.g. Purchases, personal info, etc
+2. Login and signup
+3. Different priviledges for admin, distributer, inventary manager and user
+4. Different card color scheme
+5. User info stored. e.g. Purchases, personal info, etc
